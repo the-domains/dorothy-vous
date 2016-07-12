@@ -2,37 +2,16 @@
     <channel>
         <title><![CDATA[Dorothy Vous]]></title>
         <description><![CDATA[Dorothy Vous]]></description>
-        <link>https://thegrid.ai/dorothy-vous/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 21:40:19 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/dorothy-vous/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 21:44:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dorothy Vous | Fully handmade premium woman bags]]></title>
             <description><![CDATA[<article><h1>Dorothy Vous | Fully handmade premium woman bags</h1><p>I love to illustrate and design, this is my profession for last 18 years. But I also love to sew and I'm doing it since I was 9 years old. Then I learned to sew by hand, as well as on the sewing machine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/900177675e9cbf9a4ebd93c894a52139/croprotate.jpg?cropheight=614&cropwidth=1285&degrees=0&input=http%3A%2F%2Fdorothyvous.com%2Fdorothy-vous-bags.jpg&x=0&y=0"></article>]]></description>
             <link>http://dorothyvous.com/</link>
             <guid isPermaLink="false">0f286c87-4095-4d51-a76a-8029dbd15976</guid>
-            <pubDate>Tue, 12 Jul 2016 21:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bistro Proti Proudu, Prague, Czech Republic ]]></title>
-            <description><![CDATA[<article><h1>Bistro Proti Proudu, Prague, Czech Republic </h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/czech-republic/prague/restaurants/bistro-proti-proudu</link>
-            <guid isPermaLink="false">8f3baf56-47b6-476c-9a36-94137e2d26d7</guid>
-            <pubDate>Tue, 12 Jul 2016 21:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Pimm's Cup recipes for spring.]]></title>
-            <description><![CDATA[<article><h1>7 Pimm's Cup recipes for spring.</h1><p>If Spring had an official cocktail, the Pimm's Cup would be it. It's ultra-refreshing, bright and vibrant-and as easy to make as it is to drink. To mix a basic version of the classic British cocktail, all you need is Pimm's No. 1, ginger ale (or some sort of lemon-lime soda), cucumber and lemon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e7943555bcd38f0d3a304708ede962df3f224f.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/lifestyle/7-pimms-cup-recipes-for-spring</link>
-            <guid isPermaLink="false">579b6ff9-4c86-40be-8bda-96d2ebadcc93</guid>
-            <pubDate>Tue, 12 Jul 2016 21:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet Engine Espresso Machines : veloce espresso]]></title>
-            <description><![CDATA[<article><h1>Jet Engine Espresso Machines : veloce espresso</h1><p>veloce espresso - Designer and engineer Paolo Mastrogiuseppe spent a great deal of his career creating innovations that look like Formula 1 cars but his latest inven...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa68e92ee8ab4642c924f9f480741887daf0dc6.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/veloce-espresso</link>
-            <guid isPermaLink="false">97af1ac7-cc71-402a-abe1-db661082b73f</guid>
-            <pubDate>Tue, 12 Jul 2016 21:22:36 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 21:44:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
